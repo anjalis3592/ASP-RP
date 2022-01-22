@@ -1,1 +1,2 @@
 this is main file
+line2 was added
